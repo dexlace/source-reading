@@ -3,6 +3,7 @@ package com.dexlace.reflect.basic;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -13,9 +14,23 @@ import java.util.Properties;
 @SuppressWarnings("all")
 @Data
 @AllArgsConstructor
-public class Cat {
+@NoArgsConstructor
+public class Cat  extends Animal{
+
+    private  Integer age;
+
+    private String name;
+
     public void eat(){
         System.out.println("喵喵 is eating");
+    }
+
+    @Override
+    public String toString() {
+        return "Cat{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                '}';
     }
 
     public static void main(String[] args)
@@ -57,6 +72,11 @@ public class Cat {
         // 方法.invoke(对象)是反射的灵魂
         // 方法.invoke(对象)是反射的灵魂
         clsMethod.invoke(o);
+
+        // 4. java反射相关的类
+        // java.lang.reflect.Class
+
+        // https://www.cnblogs.com/wangwudi/p/11843086.html
 
 
     }
