@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da2cef8b-2e1a-4e6f-83c7-c22e37b9f192" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/AnnotationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case1/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case1/FruitColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case1/FruitName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case1/FruitProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case2/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case2/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case2/UseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/Constrains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/DBTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/SQLInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case3/SQLString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/annotation/MyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/aspect/MyLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case4/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case5/annotation/MyFieldAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case5/annotation/MyMethodAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case5/aspect/MyMethodAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case5/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case5/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case6/annotation/FirstConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case6/controller/ValidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case6/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case6/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case6/validator/FirstConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/annotation/RequiredPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/config/MVCConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/constant/PermissionConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/controller/PermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/com/dexlace/annotation/case7/interceptor/PermissionInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm-learning/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm-learning/src/main/java/com/dexlace/jvm/charpter2/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm-learning/src/main/java/com/dexlace/jvm/charpter3/ReferenceCountingGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/re.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/re.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射与动态代理/to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/AnnotationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case1/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case1/FruitColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case1/FruitName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case1/FruitProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case2/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case2/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case2/UseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/AnnotationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/Constrains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/DBTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/SQLInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case3/SQLString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/annotation/MyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/aspect/MyLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case4/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case5/annotation/MyFieldAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case5/annotation/MyMethodAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case5/aspect/MyMethodAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case5/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case5/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case6/annotation/FirstConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case6/controller/ValidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case6/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case6/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case6/validator/FirstConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/annotation/RequiredPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/config/MVCConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/constant/PermissionConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/controller/PermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/annotation/src/main/java/com/dexlace/annotation/case7/interceptor/PermissionInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../注解与反射/learning-everything/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../to-be-continued/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\softwareOfDevelopment\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23pV976Ea1KxDwpURhg9Dfh4CZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\togithub\source-reading\learning-everything\reflect-and-proxy\src\main\java\com\dexlace\reflect" />
+      <recent name="F:\togithub\source-reading\learning-everything\jvm-learning\src\main\java\com\dexlace\jvm" />
+      <recent name="F:\togithub\source-reading\learning-everything\annotation\src\main\java\com\dexlace\annotation" />
+      <recent name="F:\togithub\source-reading\learning-everything\annotation\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dexlace.annotation.AnnotationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AnnotationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da2cef8b-2e1a-4e6f-83c7-c22e37b9f192" name="Default Changelist" comment="" />
+      <created>1642430862527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642430862527</updated>
+      <workItem from="1642430864224" duration="386000" />
+      <workItem from="1642431629813" duration="168000" />
+      <workItem from="1642431825430" duration="337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="320" key="GridCell.Tab.0.bottom" timestamp="1642432169134">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="320" key="GridCell.Tab.0.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642432169134" />
+    <state width="1663" height="320" key="GridCell.Tab.0.center" timestamp="1642432169134">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="320" key="GridCell.Tab.0.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642432169134" />
+    <state width="1663" height="320" key="GridCell.Tab.0.left" timestamp="1642432169134">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="320" key="GridCell.Tab.0.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642432169134" />
+    <state width="1663" height="320" key="GridCell.Tab.0.right" timestamp="1642432169134">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="320" key="GridCell.Tab.0.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642432169134" />
+    <state width="1663" height="2" key="GridCell.Tab.1.bottom" timestamp="1642431259942">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642431259942" />
+    <state width="1663" height="2" key="GridCell.Tab.1.center" timestamp="1642431259942">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642431259942" />
+    <state width="1663" height="2" key="GridCell.Tab.1.left" timestamp="1642431259942">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642431259942" />
+    <state width="1663" height="2" key="GridCell.Tab.1.right" timestamp="1642431259942">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642431259942" />
+    <state x="241" y="101" key="new project wizard" timestamp="1642432044932">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="101" key="new project wizard/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642432044932" />
+  </component>
+</project>

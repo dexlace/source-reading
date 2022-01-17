@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bc23aaf-bf3d-4ea7-ab84-219f1bde8fa0" name="Default Changelist" comment="反射">
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/proxy/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflect-and-proxy/src/main/java/com/dexlace/reflect/basic/ReflectionBasic2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\softwareOfDevelopment\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22BC2iSStEQLqNHgZLL9I7Fb8Mb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RunManager" selected="Application.ReflectionBasic2">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.reflect.basic.Cat" />
+      <module name="reflect-and-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.reflect.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.jvm.charpter2.HeapOOM" />
+      <module name="jvm-learning" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.jvm.charpter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.reflect.basic.ReflectionBasic" />
+      <module name="reflect-and-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.reflect.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionBasic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.reflect.basic.ReflectionBasic2" />
+      <module name="reflect-and-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.reflect.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionBasic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dexlace.reflect.basic.ReflectionBasic3" />
+      <module name="reflect-and-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dexlace.reflect.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Cat" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Application.ReflectionBasic" />
+      <item itemvalue="Application.ReflectionBasic2" />
+      <item itemvalue="Application.ReflectionBasic3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectionBasic2" />
+        <item itemvalue="Application.ReflectionBasic3" />
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.ReflectionBasic" />
+        <item itemvalue="Application.HeapOOM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc23aaf-bf3d-4ea7-ab84-219f1bde8fa0" name="Default Changelist" comment="" />
+      <created>1639301390928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639301390928</updated>
+      <workItem from="1639301392672" duration="6157000" />
+      <workItem from="1639402254007" duration="1939000" />
+      <workItem from="1639488600558" duration="5196000" />
+      <workItem from="1639583397346" duration="3589000" />
+      <workItem from="1639666153818" duration="2906000" />
+      <workItem from="1642334026858" duration="3293000" />
+      <workItem from="1642425880489" duration="688000" />
+    </task>
+    <task id="LOCAL-00001" summary="JVM内存">
+      <created>1639494278082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639494278082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="反射">
+      <created>1639587090402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639587090402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JVM内存" />
+    <MESSAGE value="反射" />
+    <option name="LAST_COMMIT_MESSAGE" value="反射" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639585323260">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="309" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639585323260" />
+    <state x="601" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1639667809458">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="601" y="162" key="#com.intellij.ide.util.MemberChooser/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639667809458" />
+    <state x="674" y="131" width="360" height="659" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1639667775296">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="674" y="131" width="360" height="659" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639667775296" />
+    <state x="418" y="384" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1639302931000">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="418" y="384" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639302931000" />
+    <state width="1237" height="96" key="GridCell.Tab.0.bottom" timestamp="1642349354207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="254" key="GridCell.Tab.0.bottom/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642337329626" />
+    <state width="1237" height="96" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1642349354207" />
+    <state width="1237" height="96" key="GridCell.Tab.0.center" timestamp="1642349354207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="254" key="GridCell.Tab.0.center/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642337329626" />
+    <state width="1237" height="96" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1642349354207" />
+    <state width="1237" height="96" key="GridCell.Tab.0.left" timestamp="1642349354207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="254" key="GridCell.Tab.0.left/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642337329626" />
+    <state width="1237" height="96" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1642349354207" />
+    <state width="1237" height="96" key="GridCell.Tab.0.right" timestamp="1642349354207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1663" height="254" key="GridCell.Tab.0.right/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1642337329626" />
+    <state width="1237" height="96" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1642349354207" />
+    <state x="469" y="178" key="SettingsEditor" timestamp="1639408812660">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="469" y="178" key="SettingsEditor/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639408812660" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1639587129791">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639587129791" />
+    <state x="390" y="176" width="927" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1639585358723">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="390" y="176" width="927" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639585358723" />
+    <state x="93" y="93" width="1521" height="735" key="dock-window-1" timestamp="1639302987762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="93" y="93" width="1521" height="735" key="dock-window-1/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639302987762" />
+    <state x="241" y="101" key="new project wizard" timestamp="1639488674720">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="101" key="new project wizard/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639488674720" />
+    <state x="241" y="101" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1639301457545" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1639586673044">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/-1920.171.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1639586673044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.InstantiationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
